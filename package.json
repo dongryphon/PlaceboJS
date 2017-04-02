@@ -1,0 +1,22 @@
+{
+  "name": "placebojs",
+  "version": "2.0.0",
+  "description": "Making other projects better",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongryphon/PlaceboJS.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Don Griffin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongryphon/PlaceboJS/issues"
+  },
+  "homepage": "https://github.com/dongryphon/PlaceboJS#readme"
+}
