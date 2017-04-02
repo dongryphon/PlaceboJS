@@ -4,7 +4,7 @@
 
 # Version 2
 
-After an amazine two year run, version 2 is ready! A complete rewrite
+After an amazing two year run, version 2 is ready! A complete rewrite
 and yet highly compatible and performant. Now with exhaustive unit
 tests (no code escaped test coverage!) and npm availability by popular
 demand.
@@ -14,7 +14,7 @@ Version 2 has some amazing benefits:
  - Blazing performance! No library is faster! Period.
  - Minimal footprint! No library is smaller!
  - Minimal learning curve!
- - Beta testers report that version 2 is twice as benefial to their apps!
+ - Beta testers report that version 2 is twice as beneficial to their apps!
 
 ## Upgrades
 
