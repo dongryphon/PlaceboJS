@@ -4,7 +4,7 @@
   "description": "Making other projects better",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node test/test.js && echo \"✓ Tests OK!\""
   },
   "repository": {
     "type": "git",
