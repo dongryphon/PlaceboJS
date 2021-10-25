@@ -24,3 +24,8 @@ delighted to announce:
 ** PlaceboJS version 2 has zero (0) breaking changes! **
 
 Put that in your Angular pipe and smoke it!
+
+## Defect Free
+
+This package has 0 bugs and its 100% test coverage ensures that it will
+stay that way!
